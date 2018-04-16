@@ -141,7 +141,7 @@
 			</xs:extension>
 		</xs:complexContent>
 	</xs:complexType>
-	<xs:element name="TableFormulaWithArgument" substitutionGroup="osp:Formula" type="osp:TableFormulaWithXArgumentType"/>
+	<xs:element name="TableFormulaWithXArgument" substitutionGroup="osp:Formula" type="osp:TableFormulaWithXArgumentType"/>
 
 	<xs:complexType name="EntityType">
 		<xs:attribute name="id" type="xs:int" use="required"/>
