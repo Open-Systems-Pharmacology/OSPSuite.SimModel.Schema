@@ -1,5 +1,5 @@
 <!--<?xml version="1.0" encoding="UTF-8"?>-->
-<xs:schema targetNamespace="http://www.open-systems-pharmacology.org" xmlns:osp="http://www.open-systems-pharmacology.org" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+<xs:schema targetNamespace="http://www.systems-biology.com" xmlns:osp="http://www.systems-biology.com" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
 	<xs:element name="Simulation">
 		<xs:complexType>
 			<xs:all>
